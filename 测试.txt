@@ -9,3 +9,4 @@ help git!!
 演示合并冲突 master
 演示合并冲突 hot-fix
 我在gitHub上修改的
+我在本地进行了一些修改text
