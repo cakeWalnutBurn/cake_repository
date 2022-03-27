@@ -7,3 +7,4 @@ help git!!
 版本2
 修改了部分bug
 演示合并冲突 master
+演示合并冲突 hot-fix
